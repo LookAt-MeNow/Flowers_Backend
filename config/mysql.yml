@@ -1,0 +1,10 @@
+mysql:
+  host: "43.139.117.157"
+  port: 3306
+  user: "bishe"
+  password: "zjw040521"
+  dbname: "bishe" # 
+  charset: "utf8mb4"
+  parseTime: true # 
+  maxIdleConns: 10
+  maxOpenConns: 100
