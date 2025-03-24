@@ -1,7 +1,7 @@
 import json
 
 # 读取文件内容
-with open('floor.txt', 'r', encoding='utf-8') as file:
+with open('de.txt', 'r', encoding='utf-8') as file:
     content = file.read()
 
 # 解析JSON内容
