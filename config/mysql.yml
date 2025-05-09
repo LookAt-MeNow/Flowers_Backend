@@ -1,9 +1,9 @@
 mysql:
-  host: "43.139.117.157"
+  host: "127.0.0.1"
   port: 3306
-  user: "bishe"
-  password: "zjw040521"
-  dbname: "bishe" # 
+  user: "flower"
+  password: "123456"
+  dbname: "flower" # 
   charset: "utf8mb4"
   parseTime: true # 
   maxIdleConns: 10
